@@ -1,0 +1,11 @@
+D:\visual studio practice\webform parctice\BlogProjectApp\BlogProjectApp\bin\BlogProjectApp.dll.config
+D:\visual studio practice\webform parctice\BlogProjectApp\BlogProjectApp\bin\BlogProjectApp.dll
+D:\visual studio practice\webform parctice\BlogProjectApp\BlogProjectApp\bin\BlogProjectApp.pdb
+D:\visual studio practice\webform parctice\BlogProjectApp\BlogProjectApp\obj\Debug\BlogProjectApp.dll
+D:\visual studio practice\webform parctice\BlogProjectApp\BlogProjectApp\obj\Debug\BlogProjectApp.pdb
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Final Project\BlogProjectApp\BlogProjectApp\BlogProjectApp\bin\BlogProjectApp.dll.config
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Final Project\BlogProjectApp\BlogProjectApp\BlogProjectApp\bin\BlogProjectApp.dll
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Final Project\BlogProjectApp\BlogProjectApp\BlogProjectApp\bin\BlogProjectApp.pdb
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Final Project\BlogProjectApp\BlogProjectApp\BlogProjectApp\obj\Debug\BlogProjectApp.csprojResolveAssemblyReference.cache
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Final Project\BlogProjectApp\BlogProjectApp\BlogProjectApp\obj\Debug\BlogProjectApp.dll
+E:\BASIS _SEIP - Practice (.NET)\BASIS-SEIP Project\Final Project\BlogProjectApp\BlogProjectApp\BlogProjectApp\obj\Debug\BlogProjectApp.pdb
